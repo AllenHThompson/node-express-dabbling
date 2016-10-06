@@ -1,0 +1,11 @@
+{
+  "name": "node-express-dabbling",
+  "version": "1.0.0",
+  "description": "Express exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allen H. Thompson",
+  "license": "ISC"
+}
